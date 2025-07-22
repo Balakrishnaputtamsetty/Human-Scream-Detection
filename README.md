@@ -31,8 +31,3 @@
 - Support for multilingual alerting
 - Further model compression for edge deployment
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/krishnaveni662/HumanScreamDetection.git
-cd HumanScreamDetection
